@@ -3,7 +3,7 @@
 int main(void)
 {
     double ylimit;
-    const double g = 3.71;
+    double g = 3.71;
     double y = 0.0;
     double v = 0.0;
     double t;
